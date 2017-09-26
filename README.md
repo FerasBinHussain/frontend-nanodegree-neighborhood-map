@@ -10,7 +10,6 @@
 ## What I used to complete this project 
 * My five favorate place in riyadh city.  
 * I used Knockout framwork.  
-* I used Foursquare API.
 * I used jquery. 
 
 
