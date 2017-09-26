@@ -22,7 +22,7 @@ var locations = [
 		long:46.678899 ,
         street: "Abdulrahman Alghafiqi St",
         city: "Riyadh",
-        visible: ko.observable(true),
+        //visible: ko.observable(true),
         id: 2
           },{
         name: 'Crown Prince Park',
